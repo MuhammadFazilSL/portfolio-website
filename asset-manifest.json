@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/portfolio-website/static/css/main.715f26ee.css",
+    "main.js": "/portfolio-website/static/js/main.0b2a3930.js",
+    "static/media/profileImg2.png": "/portfolio-website/static/media/profileImg2.96bfb81355a874c85559.png",
+    "static/media/image3.png": "/portfolio-website/static/media/image3.2e0e64a3e9c9055327cd.png",
+    "static/media/codingImg.png": "/portfolio-website/static/media/codingImg.f6ef3306024f561ed989.png",
+    "static/media/image4.png": "/portfolio-website/static/media/image4.ae95a70f563fe713a4e1.png",
+    "static/media/image7.png": "/portfolio-website/static/media/image7.e792293d3262f25f338c.png",
+    "static/media/MUHAMMAD FAZIL-RESUME.pdf": "/portfolio-website/static/media/MUHAMMAD FAZIL-RESUME.e7d1d23c6ede0bf881e3.pdf",
+    "index.html": "/portfolio-website/index.html",
+    "main.715f26ee.css.map": "/portfolio-website/static/css/main.715f26ee.css.map",
+    "main.0b2a3930.js.map": "/portfolio-website/static/js/main.0b2a3930.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.715f26ee.css",
+    "static/js/main.0b2a3930.js"
+  ]
+}
